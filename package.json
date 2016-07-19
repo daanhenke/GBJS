@@ -1,0 +1,12 @@
+{
+  "name": "GB.js",
+  "version": "0.0.1",
+  "devDependencies": {
+    "babel-cli": "latest",
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2015": "latest"
+  },
+  "scripts": {
+    "build": "echo build.cmd --not running cuz it would break all code && echo DO NOT RUN"
+  }
+}
